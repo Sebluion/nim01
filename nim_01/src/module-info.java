@@ -1,0 +1,2 @@
+module nim_01 {
+}
